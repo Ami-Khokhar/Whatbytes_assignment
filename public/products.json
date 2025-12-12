@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "MacBook Pro 16-inch",
+      "price": 1999.99,
+      "image": "https://images.unsplash.com/photo-1625766763788-95dcce9bf5ac?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFjYm9vayUyMGFpcnxlbnwwfHwwfHx8MA==",
+      "category": "Electronics",
+      "brand": "Apple",
+      "description": "Powerful laptop with the latest chips, ideal for creators and professionals.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Sony WH-1000XM5 Headphones",
+      "price": 349.99,
+      "image": "https://i.pcmag.com/imagery/reviews/04krZvvKFLwbEDvWxwPsfTH-5.fit_lim.size_640x358.v1652284815.jpg",
+      "category": "Electronics",
+      "brand": "Sony",
+      "description": "Industry-leading noise-canceling wireless headphones with premium sound.",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "title": "Samsung 55\" 4K Smart TV",
+      "price": 799.99,
+      "image": "https://m.media-amazon.com/images/I/71kI34+jBAL.jpg",
+      "category": "Electronics",
+      "brand": "Samsung",
+      "description": "Crystal-clear 4K UHD display with HDR support and smart functionality.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "title": "iPhone 15 Pro",
+      "price": 1199.99,
+      "image": "https://www.diyphotography.net/wp-content/uploads/2024/01/iphone-15-max01-1920x1080.jpg",
+      "category": "Electronics",
+      "brand": "Apple",
+      "description": "Latest smartphone with advanced camera system and high-performance chip.",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Classic Cotton T-Shirt",
+      "price": 24.99,
+      "image": "https://www.nonasties.in/cdn/shop/files/Eclipseclassictee_1.jpg?v=1759665517&width=1080",
+      "category": "Clothing",
+      "brand": "Nike",
+      "description": "Comfortable, breathable cotton t-shirt available in multiple colors.",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "title": "Denim Jeans - Slim Fit",
+      "price": 79.99,
+      "image": "https://m.media-amazon.com/images/I/71KKSBCaEVL.jpg",
+      "category": "Clothing",
+      "brand": "Levi's",
+      "description": "Premium slim-fit denim with a comfortable stretch for everyday wear.",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "title": "Winter Jacket",
+      "price": 149.99,
+      "image": "https://m.media-amazon.com/images/I/71MKuTUctJL.jpg",
+      "category": "Clothing",
+      "brand": "The North Face",
+      "description": "Warm, water-resistant jacket built for cold weather and outdoor use.",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "title": "Running Sneakers",
+      "price": 129.99,
+      "image": "https://media.istockphoto.com/id/1350560575/photo/pair-of-blue-running-sneakers-on-white-background-isolated.jpg?s=612x612&w=0&k=20&c=A3w_a9q3Gz-tWkQL6K00xu7UHdN5LLZefzPDp-wNkSU=",
+      "category": "Clothing",
+      "brand": "Nike",
+      "description": "Lightweight running shoes with excellent cushioning and support.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "price": 14.99,
+      "image": "https://media.gettyimages.com/id/2209289765/photo/the-great-gatsby-by-author-f-scott-fitzgerald-on-december-2nd-2015-in-new-york-city.jpg?s=612x612&w=0&k=20&c=5a6GFtGHTN0nMtLYDzl2R7ZE_UW3knTzjk6yFiqVTSY=",
+      "category": "Books",
+      "brand": "Scribner",
+      "description": "Classic American novel by F. Scott Fitzgerald — a timeless masterpiece.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Atomic Habits",
+      "price": 16.99,
+      "image": "https://wallpaperaccess.com/full/9922933.jpg",
+      "category": "Books",
+      "brand": "Penguin",
+      "description": "Practical guide to building better habits and making lasting change.",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "title": "Sapiens: A Brief History",
+      "price": 18.99,
+      "image": "https://www.crossword.in/cdn/shop/products/crosswordonline-books-default-title-sapiens-a-brief-history-of-humankind-the-multi-million-copy-bestseller-paperback-yuval-noah-harari-40421916934361.jpg?v=1745732642&width=391",
+      "category": "Books",
+      "brand": "Harper",
+      "description": "Explores the history of humankind from prehistoric times to now.",
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "title": "The Psychology of Money",
+      "price": 15.99,
+      "image": "https://www.jaicobooks.com/wp-content/uploads/2022/12/j-3006-the-psychology-of-money-morgan-housel-300x463.jpg",
+      "category": "Books",
+      "brand": "Harriman House",
+      "description": "Timeless lessons on wealth, greed, and happiness from a behavioral lens.",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "title": "Robot Vacuum Cleaner",
+      "price": 299.99,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/037/245/788/small/robot-vacuum-cleaner-with-pathogenic-bacteria-on-tile-floor-in-house-photo.jpg",
+      "category": "Home & Garden",
+      "brand": "iRobot",
+      "description": "Smart auto-vacuum with scheduling, app control, and automatic docking.",
+      "rating": 4.5
+    },
+    {
+      "id": 14,
+      "title": "Air Purifier",
+      "price": 199.99,
+      "image": "https://t3.ftcdn.net/jpg/03/36/42/20/360_F_336422004_uixcLBUndKBOskfJF8DHRBqu2AUj8mBt.jpg",
+      "category": "Home & Garden",
+      "brand": "Dyson",
+      "description": "HEPA-grade purifier that reduces allergens, dust, and pollutants in rooms.",
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "title": "Garden Tool Set",
+      "price": 49.99,
+      "image": "https://img.freepik.com/premium-photo/set-gardening-tools-vegetable-seedlings-white-background_495423-31672.jpg?semt=ais_hybrid&w=740&q=80",
+      "category": "Home & Garden",
+      "brand": "Fiskars",
+      "description": "Complete 10-piece garden tool set with ergonomic handles for home gardening.",
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "title": "Smart LED Bulbs (4-Pack)",
+      "price": 39.99,
+      "image": "https://m.media-amazon.com/images/I/71kxJB8Z+oL.jpg",
+      "category": "Home & Garden",
+      "brand": "Philips",
+      "description": "Wi-Fi LED bulbs with color control and voice/remote integration.",
+      "rating": 4.5
+    },
+    {
+      "id": 17,
+      "title": "Wireless Gaming Mouse",
+      "price": 89.99,
+      "image": "https://kreo-tech.com/cdn/shop/files/black_d2c_pdp_2.png?v=1759339090&width=1200",
+      "category": "Electronics",
+      "brand": "Logitech",
+      "description": "High-precision wireless mouse with customizable DPI and RGB lighting.",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "title": "Mechanical Keyboard",
+      "price": 149.99,
+      "image": "https://www.keychron.com/cdn/shop/products/Q3-M2-Keychron-Q3-QMK-VIA-custom-mechanical-keyboard-tenkeyless-layout-full-aluminum-black-frame-knob-for-Mac-Windows-iOS-with-hot-swappable-Gateron-G-Pro-switch-blue.jpg?v=1659423523&width=460",
+      "category": "Electronics",
+      "brand": "Corsair",
+      "description": "RGB mechanical keyboard with tactile switches and durable build.",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "title": "Hoodie - Premium Quality",
+      "price": 59.99,
+      "image": "https://www.tshirtstudio.com/designertools/PreviewYouDesign.aspx?IDD=70622407&IDDT=253&IDC=1&LeftRight=0.5&Center=0.2&Zoom=2",
+      "category": "Clothing",
+      "brand": "Adidas",
+      "description": "Cozy premium hoodie made from a soft cotton blend for everyday comfort.",
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "title": "Yoga Mat",
+      "price": 34.99,
+      "image": "https://wiselife.in/cdn/shop/files/Green_Alignment3.png?v=1756713593&width=400",
+      "category": "Home & Garden",
+      "brand": "Manduka",
+      "description": "Non-slip yoga mat with extra cushioning for comfort and support.",
+      "rating": 4.6
+    },
+    {
+      "id": 21,
+      "title": "Portable Bluetooth Speaker",
+      "price": 79.99,
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2024/07/portablebluetoothspeakers-2048px-3353.jpg?auto=webp&quality=75&width=1024",
+      "category": "Electronics",
+      "brand": "JBL",
+      "description": "Water-resistant portable speaker with long battery life and powerful sound.",
+      "rating": 4.5
+    },
+    {
+      "id": 22,
+      "title": "Cookbook: Italian Cuisine",
+      "price": 29.99,
+      "image": "https://www.saveur.com/uploads/2022/01/10/best-italian-cookbooks-food-history-the-classic-cuisine-of-the-italian-jews-saveur.jpg?format=auto&optimize=high&width=1440",
+      "category": "Books",
+      "brand": "Phaidon",
+      "description": "Extensive collection of authentic Italian recipes and techniques.",
+      "rating": 4.7
+    },
+    {
+      "id": 23,
+      "title": "Desk Lamp - LED",
+      "price": 45.99,
+      "image": "https://cdn.zyrosite.com/cdn-ecommerce/store_01JGK9DE7XWV71EK7TWFKKSZ0M/assets/1746725167765-61hxzarvqpl._sx679_.jpg",
+      "category": "Home & Garden",
+      "brand": "IKEA",
+      "description": "Adjustable LED desk lamp with multiple brightness modes and touch controls.",
+      "rating": 4.3
+    },
+    {
+      "id": 24,
+      "title": "Smartwatch Series 8",
+      "price": 399.99,
+      "image": "https://a-static.mlcdn.com.br/280x210/relogio-smartwatch-w28-pro-series-8-lancamento-2023-tela-infinita-chamadas-bluetooth-wearfit/ideconnect/c45231f0cc1b11ecb00d4201ac18506b/5c1d9a8d655fe4cf9d05011c785d89ef.jpeg",
+      "category": "Electronics",
+      "brand": "Apple",
+      "description": "Advanced health monitoring, fitness tracking, and seamless smartphone integration.",
+      "rating": 4.8
+    }
+  ]
+
